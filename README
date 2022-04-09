@@ -1,0 +1,9 @@
+Original game: http://www.hojamaka.com/game/mamosui_list.html (I didn't make it)
+
+This is a customizable version of Mamono Sweeper. Visit the website above for a description of the game.
+
+Controls:
+Click to reveal a square.
+Press 1-9 to flag a square with a number.
+Press 0 to clear all flags from a square.
+Press , or . or / to add a < or > or ? to a flagged square.
